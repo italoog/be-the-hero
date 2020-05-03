@@ -19,6 +19,7 @@
 
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
 - [React](https://pt-br.reactjs.org/)
 
 ### :muscle: Projeto
