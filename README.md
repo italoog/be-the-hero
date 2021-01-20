@@ -34,7 +34,7 @@ A semana foi ministrada pelo <b>Grande Mestre</b> [Diego Fernandes](https://gith
 
 ### :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ----
 
